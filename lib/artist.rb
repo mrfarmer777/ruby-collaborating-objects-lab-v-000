@@ -27,5 +27,5 @@ class Artist
     res
   end
 
-  
+
 end
