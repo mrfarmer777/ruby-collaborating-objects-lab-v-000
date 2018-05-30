@@ -25,6 +25,4 @@ class Artist
       res=Artist.new(name)
     end
     res
-    end
-      
-      
+  end
